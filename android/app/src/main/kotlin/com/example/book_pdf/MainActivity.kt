@@ -1,4 +1,4 @@
-package com.example.book_pdf
+package com.abdulloh_foziljonov.playexample
 
 import io.flutter.embedding.android.FlutterActivity
 
